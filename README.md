@@ -1,4 +1,6 @@
-# todoist
+# to-do-board
+
+## Tick Tick API
 
 ### .secret
 Store your username, pwd, client-id, and client-secret in .secret with the format: 
